@@ -4,3 +4,4 @@ repository control
 add four line 
 git has mutable index called stage
 git tracks changes of files
+creating a new branch is quickly.
