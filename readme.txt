@@ -1,5 +1,5 @@
 it is a distributed version control system 
-git is a free software distributed under the GPL
+git is free software distributed under the GPL
 repository control
 add four line 
 git has mutable index called stage
