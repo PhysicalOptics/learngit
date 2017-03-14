@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="thecxfuser_client"
+  id="myeclipse.1454467384271"
+  context-root="/thecxfuser_client"
+  j2ee-spec="5.0"
+  archive="thecxfuser_client.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
